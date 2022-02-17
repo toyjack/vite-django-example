@@ -1,0 +1,34 @@
+{
+  "src/main.ts": {
+    "file": "main.d5214346.js",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "imports": [
+      "_vendor-8bac4d21.js"
+    ],
+    "dynamicImports": [
+      "src/views/AboutView.vue"
+    ],
+    "css": [
+      "main.e9bf1ab6.css"
+    ],
+    "assets": [
+      "logo.da9b9095.svg"
+    ]
+  },
+  "_vendor-8bac4d21.js": {
+    "file": "vendor-8bac4d21.js"
+  },
+  "src/views/AboutView.vue": {
+    "file": "AboutView-57c0fb26.js",
+    "src": "src/views/AboutView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.ts",
+      "_vendor-8bac4d21.js"
+    ],
+    "css": [
+      "AboutView.ab071ea6.css"
+    ]
+  }
+}
